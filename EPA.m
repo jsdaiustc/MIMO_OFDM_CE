@@ -1,4 +1,4 @@
-function  H = EPA(Y, M,  coefficients,sequence_Phi,F)%输入参数为Y为接收信号矩阵、X为发射信号矩阵、N为信号长度、B为一个参数、tau_ind_real真正时间延迟索引
+function  H = EPA(Y, M,  coefficients,sequence_Phi,F)
 % M: number of antennas
 % J: number of grid points
 % P: number of pilots
